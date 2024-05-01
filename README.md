@@ -2,7 +2,7 @@
 
 
 
-- I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_livingbody@qq.com-c14438?style=plastic&link=mailto:beita0527@163.com)](mailto:beta0527@163.com)
+- I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_beita0527@163.com-c14438?style=plastic&link=mailto:beita0527@163.com)](mailto:beta0527@163.com)
 - 🚀 I Love PaddlePaddle:
     [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html)
     [![Documentation Status](https://img.shields.io/badge/中文文档-最新-brightgreen.svg)](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
