@@ -1,4 +1,5 @@
-### Hi there 👋, I'm BeiTa.
+### Hi there 👋, I'm BEITA.
+
 
 
 - I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_livingbody@qq.com-c14438?style=plastic&link=mailto:livingbody@qq.com)](mailto:livingbody@qq.com)
