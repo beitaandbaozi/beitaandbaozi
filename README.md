@@ -48,10 +48,10 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/livingbody/count.svg) visitor, Thank You!🎉🎉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingbody)](https://github.com/livingbody/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beitaandbaozi)](https://github.com/livingbody/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingbody&layout=compact)
-![livingbody's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingbody&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beitaandbaozi&layout=compact)
+![livingbody's GitHub stats](https://github-readme-stats.vercel.app/api?username=beitaandbaozi&show_icons=true)
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
