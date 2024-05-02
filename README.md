@@ -1,6 +1,6 @@
-### Hi there 👋, I'm BEITA.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%EF%BC%8C%E6%88%91%E6%98%AFBEITA%EF%BC%8C%E6%88%91%E4%BC%9A%E5%9C%A8%E8%BF%99%E9%87%8C%E5%88%86%E4%BA%AB%E6%88%91%E5%81%9A%E7%9A%84%E4%B8%9C%E8%A5%BF%F0%9F%A4%94)](https://git.io/typing-svg)
 
-
+![](https://moe-counter.glitch.me/get/@beitaandbaozi.github.readme?theme=rule34)
 
 - I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_beita0527@163.com-c14438?style=plastic&link=mailto:beita0527@163.com)](mailto:beta0527@163.com)
 - 🚀 I Love PaddlePaddle:
@@ -12,7 +12,6 @@
 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
-  ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
   ![Nodejs](https://img.shields.io/badge/Node.js-35495E?logo=Node.js&logoColor=4FC08D)
   ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
@@ -32,7 +31,7 @@
   ![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)
 
 - ⚙️ I also use and work:
-  ![Nodejs](https://img.shields.io/badge/Node.js-35495E?logo=Node.js&logoColor=4FC08D)  
+  ![Nodejs](https://img.shields.io/badge/Node.js-35495E?logo=Node.js&logoColor=4FC08D)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -46,12 +45,20 @@
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/livingbody/count.svg) visitor, Thank You!🎉🎉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beitaandbaozi)](https://github.com/livingbody/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beitaandbaozi)](https://github.com/livingbody/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beitaandbaozi&layout=compact)
-![livingbody's GitHub stats](https://github-readme-stats.vercel.app/api?username=beitaandbaozi&show_icons=true)
+
+![](https://metrics.lecoq.io/codeacg?template=classic&config.timezone=Asia%2FBeiJing)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=beitaandbaozi)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![BEITA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beitaandbaozi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=beitaandbaozi)](https://git.io/streak-stats)
+![beiTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=beitaandbaozi&show_icons=true)
+
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
