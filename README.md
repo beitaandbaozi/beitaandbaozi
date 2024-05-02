@@ -45,8 +45,8 @@
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
 
 
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beitaandbaozi)](https://github.com/livingbody/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beitaandbaozi)](https://github.com/livingbody/github-readme-stats) 
+![beiTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=beitaandbaozi&show_icons=true)
 
 
 ![](https://metrics.lecoq.io/codeacg?template=classic&config.timezone=Asia%2FBeiJing)
@@ -56,8 +56,6 @@
 
 [![BEITA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beitaandbaozi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=beitaandbaozi)](https://git.io/streak-stats)
-![beiTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=beitaandbaozi&show_icons=true)
 
 
 ### My Skill Set
